@@ -26,3 +26,21 @@
 # List of useful JS packages for frontend
 
 + Date-fns - date formatting, data calculation, date distance  [link](https://date-fns.org/)
+
+
+# Stripe integration
+
++ Collect taxes during the checkout
+[link](https://stripe.com/docs/payments/checkout/taxes)
+
++ Metered Billing
+[link](https://stripe.com/docs/billing/subscriptions/metered#report-usage)
+
++ Subscription Integration
+[link](https://stripe.com/docs/billing/subscriptions/build-subscriptions?ui=checkout#create-session)
+
+
+# Amplify
+
++ Env and CLI examples with different git branches
+[link](https://codeolives.com/2020/02/11/how-to-setup-multiple-environments-for-aws-amplify-with-git-workflow/)

@@ -2,6 +2,9 @@
 
 + Svelte headless UI [link](https://svelte-headlessui.goss.io/docs)
 
++ Svelte router with admin gates
+[link](https://www.npmjs.com/package/svelte-router-spa#layouts-and-route-info)
+
 + Tippy.js for tooltips in Svelte
 [link](https://blog.logrocket.com/svelte-actions-introduction/)
 

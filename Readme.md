@@ -47,3 +47,9 @@
 
 + Env and CLI examples with different git branches
 [link](https://codeolives.com/2020/02/11/how-to-setup-multiple-environments-for-aws-amplify-with-git-workflow/)
+
+# Design
+
++ DaisyUI components [link](https://daisyui.com/)
+
++ PicoCSS (css with beatiful default styles) [link](https://picocss.com/)

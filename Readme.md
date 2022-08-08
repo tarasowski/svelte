@@ -2,6 +2,8 @@
 
 + Svelte headless UI [link](https://svelte-headlessui.goss.io/docs)
 
++ Svelte DaisyUI - Nice looking free component library [link](https://daisyui.com/)
+
 + Svelte router with admin gates
 [link](https://www.npmjs.com/package/svelte-router-spa#layouts-and-route-info)
 
